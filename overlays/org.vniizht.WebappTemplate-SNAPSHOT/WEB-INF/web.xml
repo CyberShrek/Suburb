@@ -7,10 +7,6 @@
         </session-timeout>
     </session-config>
 
-<!--    <welcome-file-list>-->
-<!--        <welcome-file>index.html</welcome-file>-->
-<!--    </welcome-file-list>-->
-
     <security-constraint>
         <display-name>Ограничение1</display-name>
         <web-resource-collection>
